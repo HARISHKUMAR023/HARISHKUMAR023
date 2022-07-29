@@ -1,10 +1,10 @@
 ![ Hari TECH YT](https://github.com/HARISHKUMAR023/HARISHKUMAR023/blob/main/GIMG3.png)
 
 ### Hi there 👋
-  Harishkumar N
- 💻🌏 I am CEO of my life.
- 🌱 I’m currently learning  new programming languages
- 💬 Ask me about  tech questions
+  #Harishkumar N
+ #💻🌏 I am CEO of my life.
+ #🌱 I’m currently learning  new programming languages
+ #💬 Ask me about  tech questions
 
 
 <!--
