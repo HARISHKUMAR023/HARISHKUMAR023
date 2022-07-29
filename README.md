@@ -1,4 +1,4 @@
-![ Hari TECH YT](https://github.com/HARISHKUMAR023/HARISHKUMAR023/blob/main/GITHUBIMG1.jpg)
+![ Hari TECH YT](https://github.com/HARISHKUMAR023/HARISHKUMAR023/blob/main/GIMG3.png)
 
 ### Hi there 👋
 ## Harishkumar 
