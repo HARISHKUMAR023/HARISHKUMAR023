@@ -57,8 +57,10 @@ Good in design and integration with intuitive problem-solving skills. Proficient
 <br /><br /><br /><br /><br />
 
 
-<div width="100%" align="center"><a href="https://github.com/HARISHKUMAR023/Web-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HARISHKUMAR023&repo=Web-project&title_color=14b8a6&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/HARISHKUMAR023/Shop" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HARISHKUMAR023&repo=Shop&title_color=14b8a6&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/HARISHKUMAR023/Web-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HARISHKUMAR023&repo=Web-project&title_color=14b8a6&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/HARISHKUMAR023/Shop" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HARISHKUMAR023&repo=Shop&title_color=14b8a6&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br />
+<br /><br /><br /><br /><br />
 
+<a href="https://www.buymeacoffee.com/harishkumar"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
 
